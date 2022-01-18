@@ -1,0 +1,7 @@
+.idea/*
+cmake-build-debug/*
+build/*
+dist/
+.DS_Store
+*.pyc
+*.nii
